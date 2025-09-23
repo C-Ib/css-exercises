@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.class-text,
+.cooler-class {
+           background-color: hsl(360,100%,81%);
+           font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+#id-text1 {
+         color: #0000ff;
+         font-size: 36px;
+}
+
+.cooler-class {
+             font-size: 24px;
+}
+
+#id-text2 {
+         background-color: hsl(120,100%,73%);
+         font-size: 24px;
+         font-weight: bold;
+}
